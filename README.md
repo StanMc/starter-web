@@ -7,6 +7,8 @@ This example is to show different parts of parts of the Git repository and vario
 
 ## Purpose
 
+As stated above, the main purpoise is to provide simple examples for Git training. 
+
 ## Deployment
 
 ## How to Contribute
