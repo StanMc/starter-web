@@ -20,3 +20,6 @@ Please for this repository and then issue Pull Requests for review.
 
 ###Copyright
 Stan McDaniel 2021, All Right Reserved (c)
+
+###Pull Request 
+I'm going to make a change on Git and do a pull request
