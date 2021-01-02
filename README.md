@@ -13,7 +13,7 @@ As stated above, the main purpoise is to provide simple examples for Git trainin
 This is a simple web project, deployment can be on any server or even local file system. 
 
 ## How to Contribute
-I had to add this in because I got ahead of the lecture.
+Please for this repository and then issue Pull Requests for review.
 
 ###Copyright
 Stan McDaniel 2021 (c)
