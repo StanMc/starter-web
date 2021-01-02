@@ -16,4 +16,4 @@ This is a simple web project, deployment can be on any server or even local file
 I had to add this in because I got ahead of the lecture.
 
 ###Copyright
-Stan McDaniel
+Stan McDaniel 2021 (c)
