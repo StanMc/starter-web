@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stan McDaniel stan.mcdaniel@gmail.com @stanmcdaniel
 
 # THANKS
 
