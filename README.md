@@ -17,4 +17,4 @@ This is a simple web project, deployment can be on any server or even local file
 Please for this repository and then issue Pull Requests for review.
 
 ###Copyright
-Stan McDaniel 2021 (c)
+Stan McDaniel 2021, All Right Reserved (c)
